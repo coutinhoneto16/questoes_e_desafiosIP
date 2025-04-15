@@ -16,15 +16,4 @@ int main(){
     }else{
         printf("Senha incorreto, acesso negado! \n");
     }
-    
-    
-
-
-
-
-
-
-
-
-
 }
